@@ -1,0 +1,14 @@
+tensorrt==8.6.1   
+librosa 
+tqdm  
+filetype    
+imageio 
+opencv_python_headless   
+scikit-image  
+cython  
+cuda-python 
+imageio-ffmpeg  
+colored   
+polygraphy   
+numpy==2.0.1
+gradio>=3.50.2
